@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 273141f546b294547a84c54660b8df40, type: 3}
+  m_Name: L3ScriptTable 1
+  m_EditorClassIdentifier: 
+  questions:
+  - imageHolderPrefab: {fileID: 0}
+    answerHolderPrefab: {fileID: 0}
+    draggableImages:
+    - {fileID: 0}
+    imageTags:
+    - AnswerSlot6
+    - AnswerSlot3
+    - AnswerSlot5
+    - AnswerSlot1
+    - AnswerSlot2
+    - AnswerSlot4
+    order: 1
+    correctImageTag: 
+  - imageHolderPrefab: {fileID: 0}
+    answerHolderPrefab: {fileID: 0}
+    draggableImages: []
+    imageTags:
+    - 2ndQuestion4
+    - 2ndQuestion3
+    - 2ndQuestion2
+    - 2ndQuestion1
+    - 2ndQuestion6
+    - 2ndQuestion6
+    order: 2
+    correctImageTag: 
+  - imageHolderPrefab: {fileID: 0}
+    answerHolderPrefab: {fileID: 0}
+    draggableImages: []
+    imageTags:
+    - 3rdQuestion2
+    - 3rdQuestion3
+    - 3rdQuestion4
+    - 3rdQuestion1
+    - 3rdQuestion5
+    - 3rdQuestion6
+    order: 3
+    correctImageTag: 
+  - imageHolderPrefab: {fileID: 0}
+    answerHolderPrefab: {fileID: 0}
+    draggableImages: []
+    imageTags:
+    - 4thQuestion2
+    - 4thQuestion3
+    - 4thQuestion6
+    - 4thQuestion5
+    - 4thQuestion1
+    - 4thQuestion4
+    order: 4
+    correctImageTag: 
+  - imageHolderPrefab: {fileID: 0}
+    answerHolderPrefab: {fileID: 0}
+    draggableImages: []
+    imageTags:
+    - 5thQuestion2
+    - 5thQuestion1
+    - 5thQuestion3
+    - 5thQuestion4
+    - 5thQuestion5
+    - 5thQuestion6
+    order: 5
+    correctImageTag: 

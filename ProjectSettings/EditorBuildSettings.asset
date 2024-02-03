@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Welcome.unity
+    guid: bf98b0d3d89132e4cb223d6a6512b7d2
+  - enabled: 1
+    path: Assets/HomePage.unity
+    guid: 32605b3b138cf154d81b3750a39d1c3e
+  - enabled: 1
+    path: Assets/Level2.unity
+    guid: 7716fe44e17d061449f5d19bc97fa8f2
+  - enabled: 1
+    path: Assets/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Level3.unity
+    guid: 54a9d7e4403c6614fa1939188fadb1fc
+  - enabled: 1
+    path: Assets/Level4.unity
+    guid: c8f4ca0242751fb41b483f5f0c7b7e6b
+  - enabled: 1
+    path: Assets/Lesson1.unity
+    guid: f53da2755452c9f44999bc4aed103a10
+  - enabled: 1
+    path: Assets/Lesson2.unity
+    guid: 0019ff4556785e94b9843d9ff8001426
+  - enabled: 1
+    path: Assets/Lesson3.unity
+    guid: 1fdb70950a622fc44ada7c81889a5a9e
+  - enabled: 1
+    path: Assets/Lesson4.unity
+    guid: 2859b5579bc10ae40915ccd9c0a354d4
+  - enabled: 1
+    path: Assets/Level3 1.unity
+    guid: 381abd9f78e11e74289394dbdb8fe256
+  - enabled: 1
+    path: Assets/Level3 2.unity
+    guid: a3162bca213c06c40b1a4020ba490e98
+  - enabled: 1
+    path: Assets/Level3 3.unity
+    guid: 7b5ca786f49b9584392854087ab7abb3
+  - enabled: 1
+    path: Assets/Level4 1.unity
+    guid: 7b5c93153a0d3f3469e3953b471d1ef8
+  - enabled: 1
+    path: Assets/Level4 2.unity
+    guid: 86a4e8dd0fb658441a109c244ca7d35a
+  - enabled: 1
+    path: Assets/Level4 3.unity
+    guid: 348d9749715bc834f8825353a7f88110
+  - enabled: 1
+    path: Assets/Level4 4.unity
+    guid: c28024a6d1c724e409ab99c27d4cb57b
+  - enabled: 1
+    path: Assets/Congrats.unity
+    guid: 8c488c5f0cf955e4fb3e5d622c11257a
+  - enabled: 1
+    path: Assets/Level3 4.unity
+    guid: b8e6c12b9251b2647abebb458c765acf
+  - enabled: 1
+    path: Assets/CongratsL4 1.unity
+    guid: 8ee99b519d183e946af83bcaccf02a08
+  - enabled: 1
+    path: Assets/CongratsL4 2.unity
+    guid: 87093c0bfb006ea4083d5002e3e89f49
+  - enabled: 1
+    path: Assets/CongratsL4 3.unity
+    guid: 3e1dc87c1f4d9d24daa0c24bd68bde2c
+  - enabled: 1
+    path: Assets/CongratsL4.unity
+    guid: 9f1ca7235b3975247a88b82451b7878c
+  - enabled: 1
+    path: Assets/CongratsL3.unity
+    guid: 1b18c1e22ac7d6943a43cfb07e5e4acb
+  - enabled: 1
+    path: Assets/CongratsL3 1.unity
+    guid: 0e27b253134b3d5448262c5096491a5e
+  - enabled: 1
+    path: Assets/CongratsL3 2.unity
+    guid: 5b6097e4f263e164b9b0b176cef18ac7
+  - enabled: 1
+    path: Assets/CongratsL3 3.unity
+    guid: 3dd0d9579120af048adbb9ff0144258d
+  - enabled: 1
+    path: Assets/CongratsL3 4.unity
+    guid: 64b0c6dada5c9f54b80a792d6f252100
+  - enabled: 1
+    path: Assets/CongratsL4 4.unity
+    guid: 84a1757b61d39a64f9eb2ddf7bc461e9
+  - enabled: 1
+    path: Assets/QuizButton.unity
+    guid: 914a34444f3b5704bbb87b977e980e1d
+  - enabled: 1
+    path: Assets/EcoR.unity
+    guid: b9731ddfe924d5846b7907e1881cfb27
+  - enabled: 1
+    path: Assets/EcoR1.unity
+    guid: fa5018d55cf186644abaae60381bbaa0
+  - enabled: 1
+    path: Assets/ComponentsL2.unity
+    guid: bb7a6bd9c2a12b345ab6bafbc3c092e9
+  - enabled: 1
+    path: Assets/EcoR2.unity
+    guid: 91fffb364c2815342b34c71a1dd01f9a
+  - enabled: 1
+    path: Assets/Congratulations.unity
+    guid: 6aac1fddc038bef4e9c42c7495d30709
+  m_configObjects: {}

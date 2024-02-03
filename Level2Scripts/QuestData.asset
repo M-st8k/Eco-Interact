@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0933c161fa3de7c4fa57efa42b45d047, type: 3}
+  m_Name: QuestData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImg: {fileID: 21300000, guid: 9668e374d3357c64c998fb6a1c784c94, type: 3}
+    answer: COMPETITION
+  - questionImg: {fileID: 21300000, guid: e77dc719ab54f354c88ec693aefdf158, type: 3}
+    answer: COMMENSALISM
+  - questionImg: {fileID: 21300000, guid: a16a6bfd1e1d38f45851ddd8b0be1ae4, type: 3}
+    answer: COMMUNITY
+  - questionImg: {fileID: 21300000, guid: a6a475ba052586742a579d3a3d2fbd10, type: 3}
+    answer: MUTUALISM
+  - questionImg: {fileID: 21300000, guid: cf457e01d328e054e914af321c18051a, type: 3}
+    answer: PREDATION
+  - questionImg: {fileID: 21300000, guid: e97afd3808b070644bc40340c8f3c9db, type: 3}
+    answer: PARASITISM
+  - questionImg: {fileID: 21300000, guid: 16639f06b0215a047985badf5beec83f, type: 3}
+    answer: ECOSYSTEM
+  - questionImg: {fileID: 21300000, guid: 1df2326f03e9dbf4b8ec011d706e244e, type: 3}
+    answer: SYMBIOTIC

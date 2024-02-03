@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0880bc505ea23fa48bd489c01977023d, type: 3}
+  m_Name: QuestionData
+  m_EditorClassIdentifier: 
+  questions:
+  - nameImg: DEER
+    questionImg: {fileID: 21300000, guid: f77e752e5c791334fbe09cfa0674ee8b, type: 3}
+    options:
+    - BIOTIC
+    - ABIOTIC
+    correctAns: BIOTIC
+    isUsed: 0
+    answeredCorrectly: 0
+  - nameImg: EAGLE
+    questionImg: {fileID: 21300000, guid: f140b97676b474747860d971819bf486, type: 3}
+    options:
+    - BIOTIC
+    - ABIOTIC
+    correctAns: BIOTIC
+    isUsed: 0
+    answeredCorrectly: 0
+  - nameImg: FUNGI
+    questionImg: {fileID: 21300000, guid: f7162988397b95c4f9e9908bd41f5ccd, type: 3}
+    options:
+    - BIOTIC
+    - ABIOTIC
+    correctAns: BIOTIC
+    isUsed: 0
+    answeredCorrectly: 0
+  - nameImg: HUMMINGBIRD
+    questionImg: {fileID: 21300000, guid: 7d08eac9bc80ea94ea0877dbe09697eb, type: 3}
+    options:
+    - BIOTIC
+    - ABIOTIC
+    correctAns: BIOTIC
+    isUsed: 0
+    answeredCorrectly: 0
+  - nameImg: RAIN
+    questionImg: {fileID: 21300000, guid: 1ff0df2704584d3448ed8fd7970994e8, type: 3}
+    options:
+    - BIOTIC
+    - ABIOTIC
+    correctAns: ABIOTIC
+    isUsed: 0
+    answeredCorrectly: 0
+  - nameImg: ORCHID
+    questionImg: {fileID: 21300000, guid: af82bd69d79c29d4082e50e7f05cf32f, type: 3}
+    options:
+    - BIOTIC
+    - ABIOTIC
+    correctAns: BIOTIC
+    isUsed: 0
+    answeredCorrectly: 0
+  - nameImg: RIVER
+    questionImg: {fileID: 21300000, guid: 2123af2685a43bd48b0d14541b497bf0, type: 3}
+    options:
+    - BIOTIC
+    - ABIOTIC
+    correctAns: ABIOTIC
+    isUsed: 0
+    answeredCorrectly: 0
+  - nameImg: PANDA
+    questionImg: {fileID: 21300000, guid: 9da74e255cb63d447b7c5f471cfd794d, type: 3}
+    options:
+    - BIOTIC
+    - ABIOTIC
+    correctAns: BIOTIC
+    isUsed: 0
+    answeredCorrectly: 0
+  - nameImg: MALAMUTE
+    questionImg: {fileID: 21300000, guid: 7b3a17172992f6043a2cbf40ef99b4d7, type: 3}
+    options:
+    - BIOTIC
+    - ABIOTIC
+    correctAns: BIOTIC
+    isUsed: 0
+    answeredCorrectly: 0
+  - nameImg: ROCK
+    questionImg: {fileID: 21300000, guid: c0c7ae6210e1e624c80bc51b61f776bc, type: 3}
+    options:
+    - BIOTIC
+    - ABIOTIC
+    correctAns: ABIOTIC
+    isUsed: 0
+    answeredCorrectly: 0
